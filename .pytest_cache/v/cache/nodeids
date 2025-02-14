@@ -1,0 +1,6 @@
+[
+  "pw/test_send_xml_api.py::test_send_xml_api",
+  "pw/test_send_xml_api2.py::test_send_xml_api",
+  "pw/test_send_xml_api2.py::test_send_xml_api[True]",
+  "test_send_xml_api.py::test_send_xml_api"
+]
