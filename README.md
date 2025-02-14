@@ -28,7 +28,9 @@ pip install playwright
 pip install pytest
 ```
 
-2. Run the test
+## Run test
+
+1. Run the test
 ```bash
 pytest -v test_send_xml_api.py
 ```
